@@ -41,6 +41,24 @@ p {
   
 
   
+.footer {
+  text-align: center;
+  background: url("http://i.imgur.com/S2nuYY3.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+.footer .container {
+  position: relative;
+  top: 100px;
+}
+
+.footer h2{
+  color:#fff;
+  margin: 0;
+  font-size: 150px;
+}
+
 
   
   
