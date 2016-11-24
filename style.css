@@ -39,7 +39,12 @@ p {
   margin: 0 0 20px 0;
   font-size: 30px;
   
-
+.supporting {
+  background-color: #1c1c1c;
+  padding: 50px 0 80px;
+  text-align: center;
+}
+  
   
 
   
