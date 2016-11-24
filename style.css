@@ -45,6 +45,24 @@ p {
   text-align: center;
 }
   
+.supporting .col {
+  float: left;
+  padding: 10px;
+  width: 28%;
+}
+  
+.supporting h2 {
+  color: #ffa800;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+  
+.supporting p {
+  color: #efefef;
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 20px;
+ }
   
 
   
