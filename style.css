@@ -1,5 +1,17 @@
-
-h1 {
-  color:Orange;
+html, body {
+  margin: 0;
 }
-  
+
+h1, h2, a {
+  font-family:'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
