@@ -40,11 +40,18 @@ p {
   font-size: 30px;
   
  .main .btn {
+   background-color: #1c1c1c;
    color: #fff;
    font-size: 30px;
    padding: 8px 30px;
    text-decoration: none;
    display: inline-block;
   }
+  
+a.btn:hover {
+  background:#ffa800;
+  color:#000;
+  }
+  
   
   
