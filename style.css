@@ -11,7 +11,14 @@ p {
   font-family: Helvetica;
 }
 
-.container {
+container {
   max-width: 940px;
   margin: 0 auto;
+}
+
+main {
+  text-align: center;
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
 }
