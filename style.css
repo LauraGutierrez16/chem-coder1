@@ -39,7 +39,7 @@ p {
   margin: 0 0 20px 0;
   font-size: 30px;
   
- .main .btn {
+.main .btn {
    background-color: #1c1c1c;
    color: #fff;
    font-size: 30px;
@@ -47,6 +47,24 @@ p {
    text-decoration: none;
    display: inline-block;
   }
+  
+ .supporting .btn {
+  background-color: #eee;
+  color: #1c1c1c;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+  
+.footer .btn {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
   
 a.btn:hover {
   background:#ffa800;
