@@ -48,7 +48,7 @@ p {
    display: inline-block;
   }
   
-a.btn:hover {
+a .btn:hover {
   background:#ffa800;
   color:#000;
   }
