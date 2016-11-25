@@ -2,7 +2,7 @@ html, body {
   margin: 0;
 }
 
-h1, h2, a {
+h1, a {
   font-family:'Oswald', sans-serif;
   text-transform: uppercase;
 }
@@ -38,6 +38,15 @@ p {
   color: #fff;
   margin: 0 0 20px 0;
   font-size: 30px;
+  
+h2 {
+  color: #E4BB97;
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
   
 
   
